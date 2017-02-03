@@ -1,6 +1,6 @@
 ## Laravel-SMS + Nexmo
 
-Project based on (Sending and Receiving SMS with Laravel and Nexmo)[https://laravel-news.com/sending-receiving-sms-laravel-nexmo]
+Project based on [Sending and Receiving SMS with Laravel and Nexmo](https://laravel-news.com/sending-receiving-sms-laravel-nexmo)
 Example of laravel web app to send SMS using Nexmo
 
 ## Using
