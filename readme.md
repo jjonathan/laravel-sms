@@ -12,7 +12,7 @@ cd laravel-sms
 composer update
 ```
 
-- configure your config/nexmo.php with your credentials api_key and api_secret
+- Configure your config/nexmo.php file with your credentials api_key and api_secret from https://dashboard.nexmo.com/
 
 
 ```
